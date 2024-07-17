@@ -4,7 +4,7 @@
   block:
       - name: "5.3 | PATCH | Ensure logrotate is configured | installed"
         ansible.builtin.package:
-            name: rsyslog-logrotate
+            name: logrotate
             state: present
 
       - name: "5.3 | PATCH | Ensure logrotate is configured | scheduled"
