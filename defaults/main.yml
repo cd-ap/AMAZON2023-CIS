@@ -198,9 +198,9 @@ amzn2023cis_rule_1_2_2: true
 amzn2023cis_rule_1_2_3: true
 amzn2023cis_rule_1_2_4: true
 # Filesystem Integrity Checking
-amzn2023cis_rule_1_3_1: true
-amzn2023cis_rule_1_3_2: true
-amzn2023cis_rule_1_3_3: true
+amzn2023cis_rule_1_3_1: false
+amzn2023cis_rule_1_3_2: false
+amzn2023cis_rule_1_3_3: false
 # Secure Boot Settings
 amzn2023cis_rule_1_4_1: true
 amzn2023cis_rule_1_4_2: true
@@ -355,18 +355,18 @@ amzn2023cis_rule_4_6_6: true
 # Section 5 rules
 # Section 5 is Logging and Auditing
 # Configure rsyslog
-amzn2023cis_rule_5_1_1_1: true
-amzn2023cis_rule_5_1_1_2: true
-amzn2023cis_rule_5_1_1_3: true
-amzn2023cis_rule_5_1_1_4: true
-amzn2023cis_rule_5_1_1_5: true
-amzn2023cis_rule_5_1_1_6: true
-amzn2023cis_rule_5_1_1_7: true
+amzn2023cis_rule_5_1_1_1: false
+amzn2023cis_rule_5_1_1_2: false
+amzn2023cis_rule_5_1_1_3: false
+amzn2023cis_rule_5_1_1_4: false
+amzn2023cis_rule_5_1_1_5: false
+amzn2023cis_rule_5_1_1_6: false
+amzn2023cis_rule_5_1_1_7: false
 # Configure journald
-amzn2023cis_rule_5_1_2_1_1: true
-amzn2023cis_rule_5_1_2_1_2: true
-amzn2023cis_rule_5_1_2_1_3: true
-amzn2023cis_rule_5_1_2_1_4: true
+amzn2023cis_rule_5_1_2_1_1: false
+amzn2023cis_rule_5_1_2_1_2: false
+amzn2023cis_rule_5_1_2_1_3: false
+amzn2023cis_rule_5_1_2_1_4: false
 amzn2023cis_rule_5_1_2_2: true
 amzn2023cis_rule_5_1_2_3: true
 amzn2023cis_rule_5_1_2_4: true
