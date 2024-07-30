@@ -281,16 +281,16 @@ amzn2023cis_rule_3_3_7: true
 amzn2023cis_rule_3_3_8: true
 amzn2023cis_rule_3_3_9: true
 # Configure a firewall utility
-amzn2023cis_rule_3_4_1_1: true
-amzn2023cis_rule_3_4_1_2: true
+amzn2023cis_rule_3_4_1_1: false
+amzn2023cis_rule_3_4_1_2: false
 # Configure firewall rules
-amzn2023cis_rule_3_4_2_1: true
-amzn2023cis_rule_3_4_2_2: true
-amzn2023cis_rule_3_4_2_3: true
-amzn2023cis_rule_3_4_2_4: true
-amzn2023cis_rule_3_4_2_5: true
-amzn2023cis_rule_3_4_2_6: true
-amzn2023cis_rule_3_4_2_7: true
+amzn2023cis_rule_3_4_2_1: false
+amzn2023cis_rule_3_4_2_2: false
+amzn2023cis_rule_3_4_2_3: false
+amzn2023cis_rule_3_4_2_4: false
+amzn2023cis_rule_3_4_2_5: false
+amzn2023cis_rule_3_4_2_6: false
+amzn2023cis_rule_3_4_2_7: false
 
 # Section 4 rules
 # Section 4 is Access, Authentication and Authorization
