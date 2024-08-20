@@ -295,14 +295,14 @@ amzn2023cis_rule_3_4_2_7: true
 # Section 4 rules
 # Section 4 is Access, Authentication and Authorization
 # Configure time-based job schedulers
-amzn2023cis_rule_4_1_1: false
-amzn2023cis_rule_4_1_2: false
-amzn2023cis_rule_4_1_3: false
-amzn2023cis_rule_4_1_4: false
-amzn2023cis_rule_4_1_5: false
-amzn2023cis_rule_4_1_6: false
-amzn2023cis_rule_4_1_7: false
-amzn2023cis_rule_4_1_8: false
+amzn2023cis_rule_4_1_1: true
+amzn2023cis_rule_4_1_2: true
+amzn2023cis_rule_4_1_3: true
+amzn2023cis_rule_4_1_4: true
+amzn2023cis_rule_4_1_5: true
+amzn2023cis_rule_4_1_6: true
+amzn2023cis_rule_4_1_7: true
+amzn2023cis_rule_4_1_8: true
 amzn2023cis_rule_4_1_9: true
 # Configure SSH Server
 amzn2023cis_rule_4_2_1: true
@@ -355,6 +355,7 @@ amzn2023cis_rule_4_6_6: true
 # Section 5 rules
 # Section 5 is Logging and Auditing
 # Configure rsyslog
+# We use vector instead of rsyslog
 amzn2023cis_rule_5_1_1_1: false
 amzn2023cis_rule_5_1_1_2: false
 amzn2023cis_rule_5_1_1_3: false
@@ -363,10 +364,10 @@ amzn2023cis_rule_5_1_1_5: false
 amzn2023cis_rule_5_1_1_6: false
 amzn2023cis_rule_5_1_1_7: false
 # Configure journald
-amzn2023cis_rule_5_1_2_1_1: false
-amzn2023cis_rule_5_1_2_1_2: false
-amzn2023cis_rule_5_1_2_1_3: false
-amzn2023cis_rule_5_1_2_1_4: false
+amzn2023cis_rule_5_1_2_1_1: true
+amzn2023cis_rule_5_1_2_1_2: true
+amzn2023cis_rule_5_1_2_1_3: true
+amzn2023cis_rule_5_1_2_1_4: true
 amzn2023cis_rule_5_1_2_2: true
 amzn2023cis_rule_5_1_2_3: true
 amzn2023cis_rule_5_1_2_4: true
